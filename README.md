@@ -6,10 +6,6 @@ Um jogo simples em JavaScript onde o jogador tenta adivinhar um número secreto.
 - **Descrição**: visão geral do projeto.
 - **Como Jogar**: regras e instruções de uso.
 - **Instalação**: como executar localmente.
-- **Estrutura do Projeto**: arquivos e pastas principais.
-- **Desenvolvimento**: como editar e testar mudanças.
-- **Contribuição**: como colaborar.
-- **Licença**: informações de licença.
 
 ## Descrição
 
